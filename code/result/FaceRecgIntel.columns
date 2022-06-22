@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"Name","STRING","18","0","0"
+"Top","DECIMAL","5","3","1"
+"Right","DECIMAL","5","3","1"
+"Bottom","DECIMAL","5","3","1"
+"Left","DECIMAL","5","3","1"
+"DateTime","STRING","24","0","0"
